@@ -369,6 +369,8 @@ a {
     justify-content: flex-start;
     gap: 20px;
   }
+}
+
   .footer-linkedin-link {
   display: inline-flex;
   align-items: center;
@@ -380,7 +382,6 @@ a {
   .footer-linkedin-link:hover {
     color: var(--accent);
   }
-}
 
 .card:hover,
 .card:focus-visible {
