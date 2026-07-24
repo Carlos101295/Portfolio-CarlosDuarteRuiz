@@ -85,7 +85,7 @@ export default function Home() {
                   <h3>{p.nombre}</h3>
                   <p>{p.resumen}</p>
                   <div className="stack-row">
-                    {p.stack.slice(0, 3).map((t) => (
+                    {p.stack.slice(0, 5).map((t) => (
                       <span key={t} className="chip">
                         {t}
                       </span>
