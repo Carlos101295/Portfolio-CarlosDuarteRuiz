@@ -346,6 +346,7 @@ a {
     align-items: flex-start;
     gap: 10px;
     padding: 14px 6vw 0;
+    text-align: center;
   }
   .brand {
     font-size: 14px;
