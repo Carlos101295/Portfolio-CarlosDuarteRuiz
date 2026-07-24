@@ -353,10 +353,17 @@ a {
   }
   .site-footer {
     flex-direction: column;
-    gap: 8px;
+    gap: 10px;
     align-items: center;
     text-align: center;
     padding: 20px 6vw;
+  }
+  .footer-social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
   }
   .page {
     justify-content: flex-start;
