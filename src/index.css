@@ -341,6 +341,26 @@ a {
     width: 16px;
     height: 16px;
   }
+  .site-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 14px 6vw 0;
+  }
+  .brand {
+    font-size: 14px;
+  }
+  .site-footer {
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+    text-align: center;
+    padding: 20px 6vw;
+  }
+  .page {
+    justify-content: flex-start;
+    gap: 20px;
+  }
 }
 
 .card:hover,
