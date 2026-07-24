@@ -331,7 +331,7 @@ a {
 
 @media (max-width: 640px) {
   .card {
-    flex: 0 0 78%;
+    flex: 0 0 100%;
   }
   .rail-arrow {
     width: 38px;
