@@ -7,12 +7,12 @@ export default function Footer() {
           href="https://www.linkedin.com/in/carlos-duarte-ruiz-101295cdr/"
           target="_blank"
           rel="noreferrer"
-          className="social-link"
+          className="footer-linkedin-link"
         >
           <img src="/images/linkedin.png" alt="" className="social-icon" />
           linkedin.com/in/carlos-duarte-ruiz-101295cdr
         </a>
-        </div>
+      </div>
     </footer>
   )
 }
