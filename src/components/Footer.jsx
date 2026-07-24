@@ -10,7 +10,7 @@ export default function Footer() {
           className="footer-linkedin-link"
         >
           <img src="/images/linkedin.png" alt="" className="social-icon" />
-          linkedin.com/in/carlos-duarte-ruiz-101295cdr
+          <span>linkedin.com/in/carlos-duarte-ruiz-101295cdr</span>
         </a>
       </div>
     </footer>
