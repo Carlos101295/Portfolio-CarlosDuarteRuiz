@@ -18,8 +18,8 @@ id: 'raiz-local',
     descripcion: 'Aplicación nativa para Android desarrollada como Trabajo de Fin de Grado bajo la arquitectura Model-View-View-Model (MVVM). El objetivo del sistema es democratizar la cadena alimentaria garantizando un mayor margen de beneficio para los agricultores y entregando productos "Km 0" a los usuarios. Integra dos perfiles de usuario (Comprador y Vendedor), autenticación y bases de datos en tiempo real mediante FireStore (NoSQL) y un flujo completo de e-commerce que incluye carrito, favoritos, gestión de inventario y simulación de pagos con tarjeta o Google Pay.',
     stack: ['Java', 'Android Studio', 'Firebase Auth', 'FireStore', 'Cloudinary', 'Google Maps API', 'XML', 'Google Pay'],
     demoVideo: '-R-50ZHgpnE',
-    apkUrl: 'enlace-de-descarga-si-lo-tienes', 
-    repoUrl: 'https://github.com/Carlos101295', //provisional hasta ocultar la API KEY
+    apkUrl: 'https://github.com/Carlos101295/RaizLocal-App/releases/download/1.0/RaizLocal_v1.apk', 
+    repoUrl: 'https://github.com/Carlos101295/RaizLocal-App',
     imagen: '/images/raizlocal_icono1.jpg'
   },
   {
