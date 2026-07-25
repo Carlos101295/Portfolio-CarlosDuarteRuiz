@@ -99,7 +99,7 @@ export default function ProjectDetail() {
               </a>
             )}
             {project.repoUrl && (
-              <a className="repo-link" href={project.repoUrl}>
+              <a className="repo-link" href={project.repoUrl} target="_blank">
                 Ver código en GitHub →
               </a>
             )}
