@@ -28,9 +28,10 @@ id: 'raiz-local',
     nombre: 'Video Games Price Tracker - CDR',
     resumen: 'Aplicación multiplataforma (Web y Móvil) que permite buscar videojuegos y comparar ofertas en tiempo real entre tiendas digitales.',
     descripcion: 'Aplicación Full-Stack orientada a la búsqueda y comparación de precios de videojuegos en plataformas como Steam, GOG y Epic Games. El backend, construido con Java 21 y Spring Boot, actúa como una API REST que consume la API de CheapShark de forma eficiente. Implementa un sistema de caché inteligente con TTL de 24 horas utilizando Spring Data JPA y Postgre para optimizar el rendimiento y reducir las llamadas externas. El frontend, desarrollado con React Native y Expo, ofrece una experiencia responsiva con modo oscuro que se adapta a navegadores web (diseño con barra lateral) y dispositivos Android, gestionando las rutas nativas mediante React Navigation.',
-    stack: ['Java 21', 'Spring Boot 3', 'Postgre', 'Spring Data JPA', 'React Native', 'Expo', 'API REST', 'Render'],
+    stack: ['Java 21', 'Spring Boot 3', 'Postgre', 'React Native', 'JavaScript', 'Expo', 'Spring Data JPA', 'API REST', 'Render'],
     demoVideo: '', // pega aquí el ID de YouTube o la ruta del vídeo
     apkUrl: '', // enlace de descarga de la APK
+    webUrl: 'https://videogamespricetracker-web.onrender.com/',
     repoUrl: 'https://github.com/Carlos101295/VideoGamesPriceTracker',
     imagen: '/images/mandovideojuegos.png'
   },

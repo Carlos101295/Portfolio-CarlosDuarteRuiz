@@ -98,6 +98,11 @@ export default function ProjectDetail() {
                 Enlace pendiente
               </a>
             )}
+            {project.webUrl && (
+              <a className="repo-link" href={project.webUrl} target="_blank" rel="noopener noreferrer">
+                Visitar sitio web →
+              </a>
+            )}
             {project.repoUrl && (
               <a className="repo-link" href={project.repoUrl} target="_blank">
                 Ver código en GitHub →
