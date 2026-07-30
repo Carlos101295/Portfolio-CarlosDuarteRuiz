@@ -61,9 +61,7 @@ export default function ProjectDetail() {
               )
             ) : (
               <div className="demo-placeholder">
-                Añade aquí el ID de YouTube o la ruta del vídeo
-                <br />
-                en src/data/projects.js
+                Pendiente de añadir la demo.
               </div>
             )}
           </div>
